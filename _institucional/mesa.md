@@ -8,5 +8,7 @@ A **Mesa da Assembleia Geral (MAGA)** é composta por um Presidente, um Vice-Pre
 **Conhece a Equipa do Mandato 2023/2024**:
 
 **Presidente**: Francisco Vasconcellos Guimarães.
+
 **Vice-Presidente**: Diogo Moreira 
+
 **Secretária**: Marta Goes
