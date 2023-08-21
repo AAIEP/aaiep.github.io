@@ -7,12 +7,19 @@ A **Direção** é composta por um mínimo de 5 membros e um número máximo de 
 **Conhece a Equipa do Mandato 2023/2024**: 
 
 **Presidente**: João Vianna Dias
+
 **Vice-Presidente**: Diogo Beirôco Gonçalves
+
 **Vice-Presidente**: Sofia Bidarra Pinto
+
 **Tesoureira**: Natacha Pernas
+
 **Secretária-Geral**: Maria Francisca Canhoto
 
 **Vogais de Eventos**: Francisco Festas; Afonso Pinheiro; Mafalda Costa
+
 **Vogal de Mestrado**: Rodrigo Leitão
+
 **Vogais de Projetos e Iniciativas**: João Vilar & Lourenço Amaro
+
 **Vogais de Erasmus**: Emma Varone & Violeta Franco 
