@@ -1,6 +1,7 @@
 ---
 title: Sobre a AAIEP
 subtitle: Conhece a tua Associação.
+hero_image: /assets/images/institucional/gautam-krishnan-47gcGwUUHb0-unsplash.jpg
 hero_darken: true
 ---
 

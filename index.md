@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Associação Académica do Instituto de Estudos Políticos
-subtitle: Dos estudantes, para os estudantes.
+subtitle: A Descobrir Novos Caminhos Contigo
 hero_image: /assets/images/fundo-ucp.jpg
 hero_darken: true
-hero_link: /my-page/
-hero_link_text: Mais sobre a AAIEP!
+hero_link: /institucional/sobre/
+hero_link_text: Descobre Mais
 hero_height: is-fullheight
 ---
 
