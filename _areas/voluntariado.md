@@ -19,7 +19,7 @@ Telefone: 217 214 037
 
 A Missão País é um projeto católico de universitários para universitários que, tendo nascido no Movimento Apostólico de Schoenstatt, se desenvolve nas diferentes faculdades de Lisboa. Organiza e desenvolve as Missões Universitárias – semanas de apostolado e ação social – em várias localidades Portugal. 
 
-**Contactos** 
+**Contactos**:  
 
 Email: capelania.sede@ucp.pt
 
