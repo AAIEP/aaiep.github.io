@@ -1,0 +1,55 @@
+- name: Notícias
+  link: /blog/
+- name: Institucional
+  dropdown: 
+    - name: Sobre
+      link: /institucional/sobre/
+    - name: História
+      link: /institucional/historia/
+    - name: Documentos
+      link: /institucional/documentos/
+    - name: Instalações
+      link: /institucional/instalacoes/
+    - name: Órgãos Sociais
+      link: /institucional/orgaos/
+    - name: Direção
+      link: /institucional/direcao/
+    - name: Assembleia Geral
+      link: /institucional/aga/
+    - name: Conselho Fiscal
+      link: /institucional/fiscal/
+- name: Áreas de ação
+  link: /atividades/
+  dropdown: 
+    - name: Voluntariado
+      link: /voluntariado/
+    - name: Desporto
+      link: /desporto/
+    - name: Apoio ao aluno
+      link: /apoio/
+    - name: Cultura e recreação
+      link: /cultura/
+    - name: Erasmus
+      link: /erasmus/
+    - name: Divulgação
+      link: /divulgacao/
+- name: Instituto
+  dropdown: 
+    - name: Site
+      link: https://iep.lisboa.ucp.pt/
+    - name: Moodle
+      link: https://moodle.lisboa.ucp.pt
+    - name: ESCA
+      link: https://sca.lisboa.ucp.pt/E-SCA/
+    - name: Área do aluno (licenciaturas)
+      link: https://iep.lisboa.ucp.pt/pt-pt/ba-political-science-and-international-relations/area-do-aluno
+    - name: Área do aluno (mestrados)
+      link: https://iep.lisboa.ucp.pt/pt-pt/mestrados/area-do-aluno
+    - name: Propinas
+      link: https://lisboa.ucp.pt/pt-pt/estudar-em-lisboa/propinas
+    - name: Instalações
+      link: /instalacoes-iep/
+    - name: Residência Universitária Feminina
+      link: https://lisboa.ucp.pt/pt-pt/residencia-universitaria-feminina
+- name: Contactos
+  link: /contactos/

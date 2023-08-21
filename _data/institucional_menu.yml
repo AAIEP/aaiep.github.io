@@ -1,0 +1,21 @@
+- label: Institucional
+  items:
+    - name: Sobre
+      link: /institucional/sobre/
+    - name: História
+      link: /institucional/historia/
+    - name: Documentos
+      link: /institucional/documentos/
+    - name: Instalações
+      link: /institucional/instalacoes/
+    - name: Órgãos Sociais
+      link: /institucional/orgaos/
+      items:
+        - name: Direcção
+          link: /institucional/direcao/
+        - name: Assembleia Geral de Alunos
+          link: /institucional/aga/
+        - name: Mesa da Assembleia Geral de Alunos
+          link: /institucional/mesa/
+        - name: Conselho Fiscal
+          link: /institucional/fiscal/

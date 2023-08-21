@@ -1,0 +1,37 @@
+---
+---
+// Normas gráficas (cores AAIEP)
+$aaiep-blue: #165DC2;
+$aaiep-red: #DD1F59;
+$aaiep-mourn: #333333;
+
+// Bulma primary colour
+$primary: $aaiep-blue;
+
+// Primary font family
+$family-primary: 'Lato', sans-serif;
+
+// Serif Headers
+.title,
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+    font-family: 'Lusitana', serif;
+}
+
+// Fonts from Google:
+// - Lusitana
+// - Lato
+// - Literata
+// - Homemade Apple
+// - Cormorant Garamond
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Homemade+Apple&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Literata:ital,opsz,wght@0,7..72,600;1,7..72,600&family=Lusitana:wght@400;700&display=swap');@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Literata:ital,opsz,wght@0,7..72,600;1,7..72,600&family=Lusitana:wght@400;700&display=swap');
+
+// Hero darken colour
+$hero-darken: $primary; //#0e3b79;
+
+// Import Main CSS file from theme
+@import "main";
