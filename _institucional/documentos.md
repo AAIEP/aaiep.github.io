@@ -1,6 +1,8 @@
 ---
 title: Documentos
 subtitle: Acede de forma Livre e Transparente à Documentação legal da AAIEP.
+hero_image: /assets/images/wesley-tingey-snNHKZ-mGfE-unsplash.jpg
+hero_darken: true
 ---
 
 ## Estatutos Oficiais 
