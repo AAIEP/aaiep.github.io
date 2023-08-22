@@ -9,7 +9,7 @@ Sabemos que por vezes a trajetória do curso pode ser cansativa e desgastante. �
 
 # Sebentas e Fotocópias das Cadeiras :
 
-Tens as fotocopiadoras no edifício 2 e 5, cada cópia custa 0.04€ por folha. Na UCP tens a Duplix, no edifício 4. É aqui que os professores colocam as sebentas. Quanto às encomendas, tens de esperar até ao dia seguinte para as ires buscar. A Duplix, no entanto, para fotocópias, é relativamente cara. Perto da UCP tens a Copy Break, junto da bomba de gasolina, atrás do Parque Norte. As fotocópias são a 0.25€. 
+As fotocopiadoras encontram-se no edifício 2 e 5, cada cópia custa 0.04€ por folha. Na UCP tens a Duplix, no edifício 4. É aqui que os professores colocam as sebentas. Quanto às encomendas, tens de esperar até ao dia seguinte para as ires buscar. A Duplix, no entanto, para fotocópias, é relativamente cara. Perto da UCP tens a Copy Break, junto da bomba de gasolina, atrás do Parque Norte. As fotocópias são a 0.25€. 
 
 # DropBox AAIEP
 Na DropBox da AAIEP vais encontrar o repositório dos testes e apontamentos de anos anteriores. Carrega **aqui** para acederes à Dropbox. 
@@ -25,3 +25,8 @@ Podes marcar a tua consulta **aqui**.
 # Manual do Caloiro: 
 
 Se és caloiro vais querer ter este manual sempre contigo. O documento contêm uma das mais importantes informações para o início da tua caminhada no IEP. Carrega **aqui** para descobrir mais. 
+
+# Banco de Livros
+
+A AAIEP está a preparar um banco de livros com livros e sebentas das cadeiras disponíveis para requisitarem na sala da Associação no **edifício 2**. Fica atento para mais novidades. 
+
