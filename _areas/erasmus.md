@@ -11,7 +11,7 @@ Os alunos do 1º ciclo (Licenciatura) devem ter, à data de início do programa,
 
 No acto de candidatura deverão entregar uma ficha de inscrição e uma minuta de procuração, disponíveis online ou no Gabinete Erasmus, fotocópia do documento de identificação do aluno e do procurador e extrato bancário com NIB e IBAN.
 
-Verifica os acordos bilaterais do IEP com Universidades Europeias {aqui} (https://iep.lisboa.ucp.pt/system/files/assets/files/iep-cadernoanual-pt-2022-digital.pdf).  
+Verifica os acordos bilaterais do IEP com Universidades Europeias {aqui}(https://iep.lisboa.ucp.pt/system/files/assets/files/iep-cadernoanual-pt-2022-digital.pdf).  
 
 **Caso tenha qualquer dúvida sobre o programa Erasmus do IEP poderá entrar em contacto com o departamento de Erasmus através dos e-mails**: 
 
