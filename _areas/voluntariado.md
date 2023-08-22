@@ -1,6 +1,8 @@
 ---
 title: Voluntariado
 subtitle: Repositório de Voluntariados Disponíveis para os Membros da AAIEP.
+hero_image: /assets/images/Areas/Optimized-WhatsApp Image 2023-08-22 at 13.19.49.jpeg
+hero_darken: true
 ---
 
 # Projeto VIDA
@@ -17,7 +19,7 @@ Telefone: 217 214 037
 
 # Missão País
 
-A Missão País é um projeto católico de universitários para universitários que, tendo nascido no Movimento Apostólico de Schoenstatt, se desenvolve nas diferentes faculdades de Lisboa. Organiza e desenvolve as Missões Universitárias – semanas de apostolado e ação social – em várias localidades Portugal. 
+A Missão País é um projeto católico de universitários para universitários que, tendo nascido no Movimento Apostólico de Schoenstatt, se desenvolve nas diferentes faculdades de Lisboa. Organiza e desenvolve as Missões Universitárias – semanas de apostolado e ação social – em várias localidades Portugal. A grande parte dos Alunos do IEP juntam-se com a Faculdade de Direto e fazem uma missão país por ano. Fica atento para não perderes essa oportunidade. 
 
 **Contactos**:  
 
