@@ -1,6 +1,8 @@
 ---
 title: Apoio ao Aluno
 subtitle: Recursos e Informações de Apoio aos Estudantes do IEP.
+hero_image: /assets/images/institucional/48349136441_c49f88a8dd_o.jpg
+hero_darken: true
 ---
 
 ## Apoio ao Aluno 
