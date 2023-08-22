@@ -1,6 +1,8 @@
 ---
 title: Assembleia Geral de Alunos
 subtitle: 
+hero_image: /assets/images/institucional/52738977070_779ca13abf_o (1).jpg
+hero_darken: true
 ---
 
 ## Assembleia Geral de Alunos (_AGA_) 
