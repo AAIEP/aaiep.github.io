@@ -1,11 +1,10 @@
 - name: Notícias
   link: /blog/
 - name: Institucional
+  link: /institucional/sobre/
   dropdown: 
     - name: Sobre
       link: /institucional/sobre/
-    - name: História
-      link: /institucional/historia/
     - name: Documentos
       link: /institucional/documentos/
     - name: Instalações
@@ -58,5 +57,11 @@
       link: https://lisboa.ucp.pt/pt-pt/residencia-universitaria-feminina
 - name: Parceiros
   link: /parceiros/
+  dropdown:
+    - name: Contactos
+      link: /parceiros/contactos/
 - name: Contactos
   link: /contactos/
+  dropdown: 
+    - name: Colabora connosco
+      link: /colabora/

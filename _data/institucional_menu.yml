@@ -2,8 +2,6 @@
   items:
     - name: Sobre
       link: /institucional/sobre/
-    - name: História
-      link: /institucional/historia/
     - name: Documentos
       link: /institucional/documentos/
     - name: Instalações

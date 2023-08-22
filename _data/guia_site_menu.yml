@@ -1,0 +1,10 @@
+- label: Guia de gestão do site
+  items:
+    - name: Introdução
+      link: /guia-site/introducao/
+- label: Os básicos
+  items:
+    - name: Questões frequentes
+      link: /guia-site/questoes/
+    - name: Publicações
+      link: /guia-site/posts/

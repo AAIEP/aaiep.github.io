@@ -1,17 +1,17 @@
 ---
 title: Conselho Fiscal
-subtitle: 
+subtitle: Órgão social
 ---
 
-## Conselho Fiscal
+# Conselho Fiscal
 
-É o órgão fiscalizador da AAIEP e é composto por um Presidente, Vice-Presidente e Secretário. Cabe a este órgão fiscalizar as atividades da AAIEP e zelar pelo cumprimento dos estatutos. 
+O Conselho Fiscal é o órgão fiscalizador da AAIEP e é composto por um Presidente, Vice-Presidente e Secretário. Cabe a este órgão fiscalizar as atividades da AAIEP e zelar pelo cumprimento dos estatutos. 
 
-**Conhece a Equipa do Mandato 2023/2024**: 
+## Mandato 2023/2024
 
-**Presidente**: Maria João Nunes
+**Presidente:** Maria João Nunes
 
-**Vice-Presidente**: Felipe La Cerda
+**Vice-Presidente:** Felipe La Cerda
 
-**Secretário**: Luís Moreno
+**Secretário:** Luís Moreno
 

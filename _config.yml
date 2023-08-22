@@ -64,6 +64,9 @@ collections:
   areas:
     path: /:collection/:path/
     output: true
+  guia-site:
+    path: /:collection/:path/
+    output: true
 
 # --------- Config --------- #
 
@@ -103,5 +106,12 @@ defaults:
     values:
       layout: "page"
       menubar: areas_menu
+  -
+    scope:
+      path: ""
+      type: "guia-site"
+    values:
+      layout: "page"
+      menubar: guia_site_menu
 
 
