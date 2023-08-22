@@ -1,8 +1,6 @@
 ---
 title: Voluntariado
 subtitle: Repositório de Voluntariados Disponíveis para os Membros da AAIEP.
-hero_image: /assets/images/Areas/Optimized-WhatsApp Image 2023-08-22 at 13.19.49.jpeg
-hero_darken: true
 ---
 
 # Projeto VIDA
