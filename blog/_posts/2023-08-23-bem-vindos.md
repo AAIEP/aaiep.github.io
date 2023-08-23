@@ -2,7 +2,8 @@
 layout: post
 title: Bem Vindos Caloiros
 subtitle: Lê aqui as Boas Vindas do teu Presidente.
-hero_image: "/assets/images/Bem Vindos Caloiros (1).png"
+image: /assets/images/Bem Vindos Caloiros (1).png
+hero_image:
 hero_darken: false
 ---
 
