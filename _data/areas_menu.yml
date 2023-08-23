@@ -2,13 +2,9 @@
   items:
     - name: Voluntariado
       link: /areas/voluntariado/
-    - name: Política educativa
-      link: /areas/politica-educativa/
-    - name: Desporto
-      link: /areas/desporto/
     - name: Apoio ao aluno
       link: /areas/apoio/
-    - name: Cultura e recreação
+    - name: Eventos & Iniciativas
       link: /areas/cultura/
     - name: Erasmus
       link: /areas/erasmus/
