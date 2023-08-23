@@ -14,4 +14,4 @@ Desejamos a todos todos uma experiência inesquecível nos próximos 3 anos em q
 
 Com os melhores cumprimentos, o teu Presidente.
 
-João Vianna Dias
+**João Vianna Dias**
