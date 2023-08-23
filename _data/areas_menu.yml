@@ -2,13 +2,11 @@
   items:
     - name: Voluntariado
       link: /areas/voluntariado/
-    - name: Apoio ao aluno
+    - name: Apoio ao Aluno
       link: /areas/apoio/
     - name: Eventos & Iniciativas
       link: /areas/cultura/
     - name: Erasmus
       link: /areas/erasmus/
-    - name: Erasmus (EN)
-      link: /areas/erasmus-en/
     - name: Divulgação
       link: /areas/divulgacao/
