@@ -3,6 +3,7 @@ layout: post
 title: Bem Vindos Caloiros
 subtitle: Lê aqui as Boas Vindas do teu Presidente.
 image: /assets/images/Bem Vindos Caloiros (1) (2).png
+author: João Vianna Dias
 ---
 
 É com grande entusiasmo e alegria que a Associação Académica do Instituto de Estudos Políticos vos dá as boas vindas nesta emocionante jornada académica na melhor Licenciatura em Ciência Política e Relações Internacionais do país!
