@@ -1,30 +1,30 @@
 - title: Presidência
   images:
-    - link: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg
+    - link: /assets/images/Mandato 23/24/mandato 23/joaodias.png
       alt:
       description: |-
         ### João Vianna Dias
 
         *Presidente*
-    - link: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg
+    - link: /assets/images/Mandato 23/24/mandato 23/diogo beiroco.jpeg
       alt:
       description: |-
-        ### Diogo Beiroco
+        ### Diogo Beirôco Gonçalves
 
         *Vice-Presidente*
-    - link: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg
+    - link: /assets/images/Mandato 23/24/mandato 23/sofia pinto.jpeg
       alt:
       description: |-
-        ### Sofia Bidarra
+        ### Sofia Bidarra Pinto
 
         *Vice-Presidente*
-    - link: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg
+    - link: /assets/images/Mandato 23/24/mandato 23/natacha.jpeg
       alt:
       description: |-
         ### Natacha Pernas
 
         *Tesoureira*
-    - link: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg
+    - link: /assets/images/Mandato 23/24/mandato 23/mika.jpeg
       alt:
       description: |-
         ### Francisca Canhoto
@@ -32,10 +32,73 @@
         *Secretária*
 - title: Vogais
   images:
-    - link: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg
+    - link: /assets/images/Mandato 23/24/mandato 23/rodrigo.jpeg
       alt:
       description: |-
         ### Rodrigo Leitão
 
         *Vogal de Mestrado*
+  images:
+    - link: /assets/images/Mandato 23/24/mandato 23/afonso.jpeg
+      alt:
+      description: |-
+        ### Afonso Moura Pinheiro
+
+        *Vogal de Eventos*  
+  images:
+    - link: /assets/images/Mandato 23/24/mandato 23/mafalda.jpeg
+      alt:
+      description: |-
+        ### Mafalda Costa
+
+        *Vogal de Eventos*
+  images:
+    - link: /assets/images/Mandato 23/24/mandato 23/francisco.jpeg
+      alt:
+      description: |-
+        ### Francisco Festas
+
+        *Vogal de Eventos*
+  images:
+    - link: /assets/images/Mandato 23/24/mandato 23/violeta.jpeg
+      alt:
+      description: |-
+        ### Violeta Franco
+
+        *Vogal de Erasmus*
+  images:
+    - link: /assets/images/Mandato 23/24/mandato 23/emma.jpeg
+      alt:
+      description: |-
+        ### Emma Varone
+
+        *Vogal de Erasmus*
+  images:
+    - link: /assets/images/Mandato 23/24/mandato 23/catarina.jpeg
+      alt:
+      description: |-
+        ### Catarina Azevedo
+
+        *Vogal de Apoio ao Estudante*
+  images:
+    - link: /assets/images/Mandato 23/24/mandato 23/vilar.jpeg
+      alt:
+      description: |-
+        ### João Vilar
+
+        *Vogal de Projetos & Iniciativas*
+  images:
+    - link: /assets/images/Mandato 23/24/mandato 23/lourenco.jpeg
+      alt:
+      description: |-
+        ### Lourenço Amaro
+
+        *Vogal de Projetos & Iniciativas*
+  images:
+    - link: /assets/images/Mandato 23/24/mandato 23/lourenco.jpeg
+      alt:
+      description: |-
+        ### Maria Ana Mendes
+
+        *Vogal de Marketing & Comunicação*
     
