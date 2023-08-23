@@ -1,6 +1,7 @@
 ---
 title: Mesa da Assembleia Geral de Alunos
 subtitle: Órgão social
+gallery: mesa_gallery
 ---
 
 # A Mesa da Assembleia Geral (_MAGA_)
