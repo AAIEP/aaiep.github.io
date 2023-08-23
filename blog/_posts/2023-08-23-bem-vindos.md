@@ -2,7 +2,7 @@
 layout: post
 title: Bem Vindos Caloiros
 subtitle: Lê aqui as Boas Vindas do teu Presidente.
-image:
+image: /assets/images/Bem Vindos Caloiros (1) (4).png
 author: João Vianna Dias
 ---
 
