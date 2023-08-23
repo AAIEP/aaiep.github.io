@@ -12,6 +12,6 @@ A partir de agora, embarcam numa aventura intelectual repleta de descobertas, de
 
 Desejamos a todos todos uma experiência inesquecível nos próximos 3 anos em que estaremos juntos
 
-Com os melhores cumprimentos, o teu Presidente.
+**Com os melhores cumprimentos, o teu Presidente**.
 
 **João Vianna Dias**
