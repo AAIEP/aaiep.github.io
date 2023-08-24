@@ -1,5 +1,5 @@
 ---
 title: Direção
-subtitle: Órgão social
+subtitle: Órgão Social
 gallery: direcao_gallery
 ---

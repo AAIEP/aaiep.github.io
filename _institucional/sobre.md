@@ -12,5 +12,3 @@ A **Associação Académica do Instituto de Estudos Políticos (AAIEP)** foi fun
 A AAIEP tem como finalidades, **Representar os Estudantes** do Instituto de Estudos Políticos da Universidade Católica Portuguesa e defender os seus interesses dento e fora da UCP assim como **Promover a Integração** e participação dos estudantes do Instituto, **Contribuir** para a formação cívica, física, cultural e científica dos estudantes e por fim **Criar Ligações e Reforçar os Laços** entre os associados, o mundo académico e a Universidade. 
 
 É uma instituição que se pauta pelo espírito académico, pelo apartidarismo, pela representatividade dos seus estudantes, pela democraticidade e autonomia nos seus procedimentos e pela independência face a entidades ou pessoas estranhas ao Instituto de Estudos Políticos da Universidade Católica Portuguesa. 
-
-![](/assets/images/UCP_Lisboa_(Sede).jpg)

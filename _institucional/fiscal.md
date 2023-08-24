@@ -1,6 +1,6 @@
 ---
 title: Conselho Fiscal
-subtitle: Órgão social
+subtitle: Órgão Social
 gallery: fiscal_gallery
 ---
 

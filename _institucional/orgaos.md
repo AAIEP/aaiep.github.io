@@ -15,7 +15,7 @@ A Direção da AAIEP é composta por um mínimo de 5 membros e um número máxim
 
 #### A Mesa da Assembleia Geral (_MAGA_)
 
-É composta por um Presidente, um Vice-Presidente e um Secretário. Compete à MAGA designar os membros da comissão eleitoral em caso de eleições ordinárias e convocar eleições em caso de eleições intercalares e emitir nota informativa aos restantes órgãos da AAIEP quando um associado pedir a sua desvinculação ou for readmitido. 
+É composta por um Presidente, um Vice-Presidente e um Secretário. Compete à *MAGA* designar os membros da comissão eleitoral em caso de eleições ordinárias e convocar eleições em caso de eleições intercalares e emitir nota informativa aos restantes órgãos da AAIEP quando um associado pedir a sua desvinculação ou for readmitido. 
 
 #### Conselho Fiscal
 

@@ -1,5 +1,5 @@
 ---
 title: Mesa da Assembleia Geral de Alunos
-subtitle: Órgão social
+subtitle: Órgão Social
 gallery: mesa_gallery
 ---
