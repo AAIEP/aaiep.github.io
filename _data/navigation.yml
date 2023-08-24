@@ -26,11 +26,9 @@
     - name: Apoio ao aluno
       link: /areas/apoio/
     - name: Eventos & Iniciativas
-      link: /areas/cultura/
+      link: /areas/eventos/
     - name: Erasmus
       link: /areas/erasmus/
-    - name: Erasmus (EN)
-      link: /areas/erasmus-en/
     - name: Divulgação
       link: /areas/divulgacao/
 - name: Instituto
