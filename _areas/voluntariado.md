@@ -1,7 +1,7 @@
 ---
 title: Voluntariado
 subtitle: Repositório de Voluntariados Disponíveis para os Membros da AAIEP.
-gallery: /divulgacao_gallery
+gallery: /volunter_gallery
 hero_image: /assets/images/Universidade-catolica2.jpg
 hero_darken: true
 ---
