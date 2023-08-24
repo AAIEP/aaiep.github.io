@@ -17,6 +17,6 @@ Verifica os acordos bilaterais do IEP com Universidades Europeias integradas no 
 
 #### Protocolos Internacionais
 
-Além do programa Erasmus+ o IEP dispõe de uma série de protocolos com universidades internacionais. Verifica os acordos bilaterais do IEP com Universidades ao redor do mundo [aqui](https://iep.lisboa.ucp.pt/pt-pt/about-iep/services/international-office/erasmus). **Nota**: _As Universidades fora da Europa não dispõem de apoio financeiro da UE. Verifica junto ao gabinete de Erasmus do IEP as condições aplicáveis._ 
+Além do programa Erasmus+ o IEP dispõe de uma série de protocolos com universidades internacionais. Verifica os acordos bilaterais do IEP com Universidades ao redor do mundo [aqui](https://iep.lisboa.ucp.pt/pt-pt/about-iep/services/international-office/erasmus). *Nota*: _As Universidades fora da Europa não dispõem de apoio financeiro da UE. Verifica junto ao gabinete de Erasmus do IEP as condições aplicáveis._ 
 
 **Caso tenhas qualquer dúvida sobre o programa Erasmus ou sobre os Protocolos Internacionais do IEP poderás entrar em contacto com o departamento de Erasmus da AAIEP através do e-mail geral@aaiep.pt.**
