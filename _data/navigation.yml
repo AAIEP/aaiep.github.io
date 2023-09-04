@@ -50,7 +50,7 @@
     - name: Residência Universitária Feminina
       link: https://lisboa.ucp.pt/pt-pt/residencia-universitaria-feminina
 - name: Parceiros
-  link: /parceiros/
+  link: areas/parceiros/
 - name: Contactos
   link: /contactos/
   dropdown: 
