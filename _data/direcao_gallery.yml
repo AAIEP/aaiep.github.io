@@ -1,6 +1,5 @@
-- title: Direção
-  images:
-    - link: /assets/images/Mandato 23/24/mandato 23/joaodias.png
+- images:
+    - link: /assets/images/Mandato 23/24/mandato 23/joaodias.jpeg
       alt:
       description: |-
         ### João Vianna Dias
@@ -30,71 +29,3 @@
         ### Francisca Canhoto
 
         *Secretária*
-- title: Vogais
-  images:
-    - link: /assets/images/Mandato 23/24/mandato 23/rodrigo.jpeg
-      alt:
-      description: |-
-        ### Rodrigo Leitão
-
-        *Vogal de Mestrado*
-    - link: /assets/images/Mandato 23/24/mandato 23/catarina.jpeg
-      alt:
-      description: |-
-        ### Catarina Azevedo
-
-        *Vogal de Apoio ao Aluno*
-    - link: assets/images/Mandato 23/24/mandato 23/mafalda.jpeg
-      alt:
-      description: |-
-        ### Mafalda Costa
-
-        *Vogal de Eventos*
-    - link: /assets/images/Mandato 23/24/mandato 23/afonso.jpeg
-      alt:
-      description: |-
-        ### Afonso Moura Pinheiro
-
-        *Vogal de Eventos* 
-    - link: assets/images/Mandato 23/24/mandato 23/festas.jpeg
-      alt:
-      description: |-
-        ### Francisco Festas
-
-        *Vogal de Eventos*
-    - link: /assets/images/Mandato 23/24/mandato 23/emma.jpeg
-      alt:
-      description: |-
-        ### Emma Varone
-
-        *Vogal de Erasmus*
-    - link: /assets/images/Mandato 23/24/mandato 23/violeta.jpeg
-      alt:
-      description: |-
-        ### Violeta Franco
-
-        *Vogal de Erasmus*
-    - link: /assets/images/Mandato 23/24/mandato 23/vilar.jpeg
-      alt:
-      description: |-
-        ### João Vilar
-
-        *Vogal de Projetos & Iniciativas*
-    - link: /assets/images/Mandato 23/24/mandato 23/lourenco.jpeg
-      alt:
-      description: |-
-        ### Lourenço Amaro
-
-        *Vogal de Projetos & Iniciativas*
-    - link: /assets/images/Mandato 23/24/mandato 23/nana.jpeg
-      alt:
-      description: |-
-        ### Maria Ana Mendes
-
-        *Vogal de Marketing & Comunicação*
-
-      
-    
-        
-  
-    

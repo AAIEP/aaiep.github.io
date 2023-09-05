@@ -11,6 +11,8 @@
       items:
         - name: Direção
           link: /institucional/direcao/
+        - name: Vogais
+          link: /institucional/vogais/
         - name: Assembleia Geral de Alunos
           link: /institucional/aga/
         - name: Mesa da Assembleia Geral de Alunos

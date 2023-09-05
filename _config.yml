@@ -50,7 +50,7 @@ remote_theme: chrisrhymes/bulma-clean-theme
 lang: pt-PT
 footer_menu: footer
 logo: /assets/images/logo_fill_emblem_light.svg
-paginate: 5
+paginate: 10
 paginate_path: "/blog/page:num"
 fixed_navbar: top
 permalink: pretty
@@ -76,12 +76,6 @@ defaults:
       path: ""
       type: "pages"
     values:
-      show_sidebar: false
-  -
-    scope:
-      path: ""
-      type: "blog"
-    values:
       show_sidebar: true
   -
     scope:
@@ -90,7 +84,9 @@ defaults:
     values:
       author: "AAIEP"
       layout: "post"
-      image: https://via.placeholder.com/1200x800
+      image: assets/images/meta/mikhail-pavstyuk-EKy2OTRPXdw-unsplash.jpg
+      hero_image: assets/images/meta/mikhail-pavstyuk-EKy2OTRPXdw-unsplash.jpg
+      hero_darken: true
       show_sidebar: true
   -
     scope:
