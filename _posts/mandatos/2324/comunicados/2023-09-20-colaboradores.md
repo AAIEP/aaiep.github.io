@@ -2,7 +2,7 @@
 layout: post
 title: We Want YOU
 subtitle: A tua Associação está a procura de Colaboradores.
-hero_image: /assets/images/Prancheta 9.png
+hero_image: 
 hero_darken: true
 image: /assets/images/Colaboradores .png
 author: Direção
