@@ -1,7 +1,7 @@
 ---
 title: Instalações
 subtitle: Conhece o Espaço da AAIEP.
-hero_image: /assets/images/institucional/inaki-del-olmo-NIJuEQw0RKg-unsplash.jpg
+hero_image: /assets/images/backgrounds/bg-ucp.jpg
 hero_darken: true
 ---
 

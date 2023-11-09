@@ -1,7 +1,7 @@
 ---
 title: Órgãos Sociais
 subtitle: Conhece a Composição Institucional da AAIEP.
-hero_image: /assets/images/52044276402_20db229e51_o.jpg
+hero_image: /assets/images/backgrounds/bg-ucp.jpg
 hero_darken: true
 ---
 

@@ -4,7 +4,7 @@ title: We Want YOU
 subtitle: A tua Associação está a procura de Colaboradores.
 hero_image: 
 hero_darken: true
-image: /assets/images/Colaboradores .png
+image: /assets/images/posts/23-24/colaborar.jpg
 author: Direção
 ---
 

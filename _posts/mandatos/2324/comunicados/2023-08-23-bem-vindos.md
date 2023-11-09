@@ -2,7 +2,7 @@
 layout: post
 title: Bem Vindos Caloiros
 subtitle: Lê aqui as Boas Vindas do teu Presidente.
-image: /assets/images/bemvindoscaloiros.jpg
+image: /assets/images/posts/23-24/welcome23.jpg
 author: Direção
 ---
 

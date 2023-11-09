@@ -1,7 +1,7 @@
 ---
 title: Assembleia Geral de Alunos
 subtitle: Órgão Social
-hero_image: /assets/images/institucional/52738977070_779ca13abf_o (1).jpg
+hero_image: /assets/images/backgrounds/bg-ucp.jpg
 hero_darken: true
 ---
 
