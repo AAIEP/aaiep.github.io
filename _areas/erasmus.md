@@ -1,7 +1,7 @@
 ---
 title: Erasmus
 subtitle: Sabe mais sobre as Oportunidades que o IEP têm para os seus Alunos
-hero_image: /assets/images/Areas/52045316951_d89b76ffc3_o.jpg
+hero_image: /assets/images/backgrounds/bg-erasmus.jpg
 hero_darken: true
 ---
 
