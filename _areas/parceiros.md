@@ -1,7 +1,7 @@
 ---
 title: Parceiros
 subtitle: Entidades parceiras da AAIEP
-
+gallery: parceiros_gallery
 hero_image: /assets/images/backgrounds/bg-ucp-garden.jpg
 hero_darken: true
 hero_link: /institucional/sobre/
