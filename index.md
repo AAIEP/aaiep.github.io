@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Associação Académica do Instituto de Estudos Políticos
-subtitle: A Descobrir Novos Caminhos Contigo (SITE EM MANUTENÇÃO)
+subtitle: A Descobrir Novos Caminhos Contigo
 hero_image: /assets/images/backgrounds/bg-ucp.jpg
 hero_darken: true
 hero_link: /institucional/sobre/
