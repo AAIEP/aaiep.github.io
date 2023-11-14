@@ -1,7 +1,7 @@
 ---
 title: Sobre a AAIEP
 subtitle: Conhece a tua Associação.
-hero_image: /assets/images/bacgrounds/bg-ucp.jpg
+hero_image: /assets/images/backgrounds/bg-estoril.jpg
 hero_darken: true
 ---
 
