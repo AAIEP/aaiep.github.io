@@ -2,7 +2,7 @@
 layout: post
 title: Outgoing November
 subtitle: Sessões de Esclarecimento sobre o Programa Erasmus+
-hero_image: "https://unsplash.com/pt-br/s/fotografias/airplane-window"
+hero_image: /assets/images/backgrounds/bg-participate.jpg
 hero_darken: true
 image: /assets/images/posts/23-24/outgoing23.jpeg
 author: Erasmus
