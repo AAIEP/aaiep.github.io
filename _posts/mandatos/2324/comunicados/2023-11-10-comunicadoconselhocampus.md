@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Comunicado Oficial
-subtitle: Conselho de Campus
+title: Conselho de Campus
+subtitle: Comunicado Oficial
 hero_image: /assets/images/backgrounds/bg-ucp.jpg
 hero_darken: true
 image: /assets/images/posts/23-24/parquecomunicado.jpeg
