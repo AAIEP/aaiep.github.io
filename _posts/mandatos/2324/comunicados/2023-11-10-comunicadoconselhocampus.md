@@ -4,7 +4,7 @@ title: Conselho de Campus
 subtitle: Comunicado Oficial
 hero_image: /assets/images/backgrounds/bg-ucp.jpg
 hero_darken: true
-image: /assets/images/posts/23-24/parquecomunicado.jpeg
+image: /assets/images/posts/23-24/comunicados.jpg
 author: Direção
 ---
 
