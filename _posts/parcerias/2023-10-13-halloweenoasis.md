@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Halloween AAIEP X OASIS
+title: Halloween AAIEP x OASIS
 subtitle: Oasis in Terror Land
 hero_image: /assets/images/posts/23-24/post oasis halloween-01.jpg
 hero_darken: true
