@@ -15,6 +15,6 @@ Neste Halloween a tua Associação Académica em parceria com a [@oasis.lx](http
 
 The dance floor will be lead by: Frecheaut, Double A, Foz and Milor. 
 
-Bilthes disponíveis com os nossos colaboradores. 
+Pulseiras disponíveis com os nossos colaboradores. 
 
 *Step into the shadows and embrace the enchament of Oasis.*
