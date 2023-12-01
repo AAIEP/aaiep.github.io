@@ -2,9 +2,9 @@
 layout: post
 title: Career Day 2023
 subtitle: Vê aqui a participação da AAIEP no Career Day 2023. 
-hero_image: /assets/images/posts/23-24/careerday23.JPG
+hero_image: /assets/images/backgrounds/bg-ucp.jpg
 hero_darken: true
-image: /assets/images/posts/23-24/outgoing23.jpeg
+image: /assets/images/posts/23-24/careerday23.JPG
 author: Direção
 ---
 
