@@ -8,7 +8,7 @@ image: /assets/images/posts/23-24/careerday23.JPG
 author: Direção
 ---
 
-No último dia 17 de novembro a AAIEP esteve presente no Career Day 2023 através do vice-presidente Diogo Beirôco Gonçalves. 
+No último dia 17 de novembro a AAIEP esteve presente no Career Day 2023 representada pelo vice-presidente Diogo Beirôco Gonçalves. 
 
 Esta edição contou com a participação de Alumni do IEP que partilharam as suas experiências no mercado de trabalho nacional e internacional assim como um painel com várias empresas onde os alunos do IEP puderam expor as suas dúvidas sobre recrutamento. 
 
